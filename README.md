@@ -1,4 +1,5 @@
 # COVIDsafe
+received 20/20 for the assignment
 ## Version 1. 1
 
 ```

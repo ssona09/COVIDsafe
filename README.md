@@ -1,7 +1,4 @@
 # COVIDsafe
-UNSW COMP3331 COVIDsafe network programming assignment 20T2
-
-Received 20/20 for the assignment.
 ## Version 1. 1
 
 ```
